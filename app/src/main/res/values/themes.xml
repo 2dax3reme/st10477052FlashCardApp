@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.St10477052FlashCardApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <color name="lightblue">#ADD8E6</color>
+        <color name="darkblue">#000080</color>
+    </style>
+
+    <style name="Theme.St10477052FlashCardApp" parent="Base.Theme.St10477052FlashCardApp" />
+</resources>
